@@ -179,7 +179,10 @@ img {
 #contact .form-control::placeholder {
     color: var(--color-body);
 }
-
+.form-group{
+   /* color:yellow; */
+   font: size 15px;
+}
 #contact input.form-control {
     height: 44px;
 }
